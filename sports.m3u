@@ -1,15 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/GTV_logo.png" group-title="Cricket",GTV (Live)
-https://stream.crichd.vip/update/gtv.php
+https://all-in-one-m3u.vercel.app/crichd/gtv.m3u8
 #EXTINF:-1 tvg-id="TSports" tvg-logo="https://i.imgur.com/uX8pT9s.png" group-title="Cricket",T Sports (Live)
-https://stream.crichd.vip/update/tsports.php
+https://all-in-one-m3u.vercel.app/crichd/tsports.m3u8
 #EXTINF:-1 tvg-id="StarSports1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Star_Sports_logo.png" group-title="Cricket",Star Sports 1 HD
-https://stream.crichd.vip/update/star1.php
-#EXTINF:-1 tvg-id="SonySportsTen1" tvg-logo="https://i.imgur.com/v8tTf7r.png" group-title="Cricket",Sony Sports Ten 1
-https://stream.crichd.vip/update/sony1.php
-#EXTINF:-1 tvg-id="SonySportsTen2" group-title="Football",Sony Sports Ten 2 (FIFA/UEFA)
-https://stream.crichd.vip/update/sony2.php
+https://all-in-one-m3u.wikimedia.app/crichd/star1.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen2" group-title="Football",Sony Sports Ten 2 HD
+https://all-in-one-m3u.vercel.app/crichd/sony2.m3u8
 #EXTINF:-1 tvg-id="SkySportsMainEvent" group-title="Football",Sky Sports Main Event HD
-https://stream.crichd.vip/update/skymain.php
+https://all-in-one-m3u.vercel.app/crichd/skymain.m3u8
 #EXTINF:-1 tvg-id="WillowCricket" group-title="Cricket",Willow Cricket HD
-https://stream.crichd.vip/update/willow.php
+https://all-in-one-m3u.vercel.app/crichd/willow.m3u8
